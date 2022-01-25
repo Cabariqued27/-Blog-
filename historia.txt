@@ -1,3 +1,3 @@
-HOla mi nombre es david cabarique
+Hi my name is David Cabarique
 Soy estudiante de ing de sistemas y computación en la universidad del norte
-y me encuentro realizando el curso de Git and GitHub
+y me encuentro realizando el curso de Git and GitHub.
