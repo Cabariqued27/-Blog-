@@ -33,7 +33,15 @@ html {
      padding: 1rem;
      background-color: #7e7575;
      height: 60.5rem;
+     width: 100%;
  }
+    main div {
+        width: 50%;
+        height: 25rem;
+        margin: 10rem 25%;
+        background-color: rgb(168, 201, 230);
+        border-radius: 1rem;
+    }
 
  .item:hover {
      background-color: rgb(145, 159, 154);
